@@ -1,0 +1,1 @@
+new-session -s "tmux" -c ~/.config/tmux/ mc
