@@ -1,1 +1,0 @@
-new-session -s "bash-profile" -c ~/.config/bash/ mc
